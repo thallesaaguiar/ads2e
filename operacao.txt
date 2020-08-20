@@ -1,0 +1,1 @@
+Operação: o sistema receberá diversos logs desde criação de cadastro, avaliação de motoristas e usuários até acidentes com carros.

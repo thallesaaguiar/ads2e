@@ -1,0 +1,1 @@
+Arquitetura e Design: Baixando o aplicativo, criando seu cadastro etc, um carro ao redor irá aparecer com o trajeto e tempo. a tarifa é calculada com um valor de até 10 dólares por viagem
